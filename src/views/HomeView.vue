@@ -30,7 +30,7 @@ onMounted(() => {
 <template>
   <main>
     <form>
-      <textarea ref="" style="width: 100%; height: 300px;">testarea</textarea>
+      <textarea ref="" style="width: 100%; height: 300px;">hi gitverse</textarea>
     </form>
   </main>
 </template>
